@@ -1,0 +1,12 @@
+This is the link to complete web app:
+Due to storage issues here, I had to upload it on google drive
+
+
+https://drive.google.com/open?id=1jDH5AouQhzV2Ux42e5qL1tr89NLmmmd6
+
+After unzipping the file, simply run anmol_work.py
+The models folder contains the trained models.
+CNN model is trained from Python files in main branch
+Notebooks are not clean but sure depict the effort
+
+Thanks :)
